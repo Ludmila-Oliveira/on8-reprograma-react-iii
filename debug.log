@@ -1,0 +1,5 @@
+[1125/094456.335:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1125/104549.800:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1125/124106.174:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\LudmilaOliveira\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\fe457dcc-14d4-4bb1-b7c2-7e3c0ecf5bae: O sistema não pode encontrar o caminho especificado. (0x3)
+[1126/153253.849:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1127/113620.321:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)

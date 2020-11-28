@@ -1,0 +1,133 @@
+#lading-page {
+	background: url(../../Assets/background-lista-harry.jpeg);
+
+	width: 100%;
+	height: 100vh;
+
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.container-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 75%;
+    margin: auto;
+}
+
+.container-title {
+    background-color: rgb(255, 255, 255);
+	opacity: 65%;
+	
+	width: 60%;
+	height: 25rem;
+	
+    padding: 2.5rem 1.3rem;
+	margin: auto 0;
+	
+	border-radius: 2rem;
+	
+    font-size: 2.7rem;
+	text-align: center;
+	
+}
+
+.container-title p {
+	font-size: 2rem;
+
+	color: rgb(69, 7, 85);
+}
+
+.container-buttons {
+	display: flex;
+	flex-direction: column;
+
+	margin: auto;
+}
+
+.info-buttons {
+	display: flex;
+
+	justify-content: space-between;
+	align-items: center;
+}
+
+.info-buttons p {
+	background-color: rgb(255, 255, 255);
+	opacity: 75%;
+	
+	font-size: 1.3rem;
+	
+	padding: 1rem;
+
+	border-radius: 1rem;
+
+	color: rgb(69, 7, 85);
+}
+
+#p_list {
+	margin-right: 5rem;
+}
+
+#p_about {
+	margin-right: 1rem;
+}
+
+.enter-app-list {
+	margin: 2rem;
+
+	width: 5rem;
+	height: 5rem;
+
+	background: rgb(224, 187, 63);
+
+	border-radius: 30px;
+
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.enter-app-about {
+	margin: 2rem;
+
+	width: 5rem;
+	height: 5rem;
+
+	background: rgb(224, 187, 63);
+
+	border-radius: 30px;
+
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.container-social-midias {
+	display: flex;
+	justify-content: space-around;
+
+	width: 20rem;
+
+	margin-left: auto;
+	margin-right: 2%;
+}
+
+.social {
+	margin: 2rem 0;
+
+	width: 5rem;
+	height: 5rem;
+
+	background: rgb(224, 187, 63);
+
+	border-radius: 30px;
+
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+}
